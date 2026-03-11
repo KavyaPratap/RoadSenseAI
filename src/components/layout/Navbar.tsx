@@ -25,7 +25,7 @@ export function Navbar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2 font-bold text-primary transition-colors hover:opacity-90">
           <Shield className="h-6 w-6 text-accent" />
-          <span className="text-xl font-headline tracking-tight">CivicMinds</span>
+          <span className="text-xl font-headline tracking-tight">RoadSense AI</span>
         </Link>
         
         <div className="hidden md:flex items-center gap-6">
