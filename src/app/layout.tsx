@@ -2,7 +2,7 @@ import type {Metadata} from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'CivicMinds | Crowdsourced Road Violation Platform',
+  title: ' RoadSense AI | Crowdsourced Road Violation Platform',
   description: 'Digital platform for crowdsourced reporting and visualization of road violations.',
 };
 
